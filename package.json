@@ -1,0 +1,23 @@
+{
+  "name": "githubtest-18aj137",
+  "version": "1.0.0",
+  "description": "Hello.Wolrd",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ssaori/githubtest-18aj137.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ssaori/githubtest-18aj137/issues"
+  },
+  "homepage": "https://github.com/Ssaori/githubtest-18aj137#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
